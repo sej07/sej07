@@ -9,7 +9,12 @@
 
 - 💬 Ask me about **Machine Learning, Deep Learning, Data Science**
 
-- 📫 How to reach me **sejalbarshikar@gmail.com**
+- 🧠 **Currently Learning:**
+  1. Optimizers and training dynamics in deep learning
+  2. Sequence-to-sequence models with attention
+  3. Model evaluation & inference for NLP tasks
+
+- 📫 Reach me at **sejalbarshikar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
