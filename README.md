@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sejal</h1>
-<h3 align="center">Final Year Student studying AI and Data Science</h3>
+<h3 align="center">First year Masters Student at Northeastern</h3>
 
 <p align="left"> <a href="https://twitter.com/sejalbarshikar" target="blank"><img src="https://img.shields.io/twitter/follow/sejalbarshikar?logo=twitter&style=for-the-badge" alt="sejalbarshikar" /></a> </p>
 
