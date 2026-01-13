@@ -5,10 +5,6 @@
 ### MS Computer Science @ Northeastern University | AI/ML Engineer
 ### Specializing in NLP & Computer Vision
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+Production+ML+Systems;Deep+Learning+Researcher;NLP+%26+Computer+Vision+Engineer;Open+to+Summer+2026+Internships" alt="Typing SVG" />
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-
 </div>
 
 ---
@@ -25,18 +21,8 @@ I build production-ready ML systems from scratch, with a focus on deep learning,
 ## Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,cpp,git,docker,fastapi,opencv,sklearn,linux,vscode,github" alt="Tech Stack" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,cpp,git,docker,fastapi,opencv,sklearn,linux,vscode,github, pytorch, tensorflow, huggingface, scikitlearn, opencv, fastapi, docker, streamlit" alt="Tech Stack" />
+  
 </p>
 
 ### Specialized Tools & Technologies
@@ -48,7 +34,7 @@ I build production-ready ML systems from scratch, with a focus on deep learning,
 
 ---
 
-## 🎓 Education & Research
+## Education & Research
 
 <table>
 <tr>
@@ -57,6 +43,16 @@ I build production-ready ML systems from scratch, with a focus on deep learning,
 ### MS Computer Science
 **Northeastern University** | *Dec 2027*  
 GPA: **3.83/4.0**  
+Focus: AI/ML, NLP, Computer Vision  
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### BE Artificial Intelligence and Data Science
+**Savitribai Phule Pune University** | *May 2025*  
+GPA: **8.65/10.0**  
 Focus: AI/ML, NLP, Computer Vision  
 
 </td>
