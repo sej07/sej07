@@ -3,11 +3,10 @@
 # Hi, I'm Sejal Barshikar
 
 ### MS Computer Science @ Northeastern University | AI/ML Engineer
-### Specializing in NLP & Computer Vision
+### Specializing in AI and ML
 
 </div>
 
----
 
 ## About Me
 
@@ -16,15 +15,23 @@ I build production-ready ML systems from scratch, with a focus on deep learning,
 **Education:** MS Computer Science @ Northeastern University (Dec 2027) | GPA: 3.83/4.0    
 **Status:** Actively seeking Summer 2026 ML Engineering Internships  
 
----
 
 ## Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,cpp,git,docker,fastapi,opencv,sklearn,linux,vscode,github, pytorch, tensorflow, huggingface, scikitlearn, opencv, fastapi, docker, streamlit" alt="Tech Stack" />
-  
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,cpp,git,docker,fastapi,opencv,sklearn,linux,vscode,github" alt="Tech Stack" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+</p>
 ### Specialized Tools & Technologies
 
 **Computer Vision:** YOLOv8, CLIP, BoTSORT, Image Segmentation  
@@ -32,7 +39,6 @@ I build production-ready ML systems from scratch, with a focus on deep learning,
 **MLOps:** Weights & Biases, MLflow, Hugging Face Spaces  
 **Development:** Jupyter, Apple Silicon MPS, Kaggle  
 
----
 
 ## Education & Research
 
@@ -59,7 +65,6 @@ Focus: AI/ML, NLP, Computer Vision
 </tr>
 </table>
 
----
 
 ## Summer 2026 Internship Goals
 
@@ -72,7 +77,6 @@ Focus: AI/ML, NLP, Computer Vision
 
 **Target Roles:** ML Engineer Intern | AI Research Intern | NLP Engineer Intern | Computer Vision Intern
 
----
 
 ## Connect with me!
 
