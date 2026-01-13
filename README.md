@@ -94,8 +94,8 @@ Focus: AI/ML, NLP, Computer Vision
 </p>
 
 <p align="center">
-  <a href="mailto:sejalbarshikar@gmail.com">
-    <img src="https://img.shields.io/badge/💼_Internship_Inquiries-sejalbarshikar@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email for Internships" />
+  <a href="mailto:sej.barshikar@gmail.com">
+    <img src="https://img.shields.io/badge/_Internship_Inquiries-sej.barshikar@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email for Internships" />
   </a>
 </p>
 
@@ -104,7 +104,5 @@ Focus: AI/ML, NLP, Computer Vision
 ### Open to Opportunities
 
 **Internship Inquiries** • **Research Collaboration** • **Coffee Chats**
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="600">
 
 </div>
