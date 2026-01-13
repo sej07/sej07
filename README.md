@@ -3,17 +3,15 @@
 # Hi, I'm Sejal Barshikar
 
 ### MS Computer Science @ Northeastern University | AI/ML Engineer
-### Specializing in AI and ML
 
 </div>
 
 
 ## About Me
 
-I build production-ready ML systems from scratch, with a focus on deep learning, multimodal AI, and research-driven development. Currently collaborating with the **Augmented Cognition Lab @ NEU** on physics-aware vision-language models and domain adaptation for autonomous driving.
-
-**Education:** MS Computer Science @ Northeastern University (Dec 2027) | GPA: 3.83/4.0    
-**Status:** Actively seeking Summer 2026 ML Engineering Internships  
+I'm a Master's student in Computer Science at Northeastern University, specializing in AI/ML with a focus on Natural Language Processing and Computer Vision. I build end-to-end deep learning systems and have published research in code summarization and serverless computing.
+  
+Actively seeking Summer 2026 ML Engineering Internships  
 
 
 ## Skills
