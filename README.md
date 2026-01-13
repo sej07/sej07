@@ -31,7 +31,7 @@ Actively seeking Summer 2026 ML Engineering Internships
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
 </p>
 
-### Specialized Tools & Technologies
+## Specialized Tools & Technologies
 
 **Computer Vision:** YOLOv8, CLIP, BoTSORT, Image Segmentation  
 **NLP:** BERT, GPT, Whisper, Transformers, spaCy  
