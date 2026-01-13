@@ -65,9 +65,7 @@ Focus: AI/ML, NLP, Computer Vision
 </table>
 
 
-## Summer 2026 Internship Goals
-
-### What I'm Looking For:
+## What I'm Looking For:
 
 **Build production AI systems** that solve real-world problems  
 **Collaborate with experienced ML engineers** on cutting-edge research  
