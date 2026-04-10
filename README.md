@@ -6,7 +6,7 @@
 
 **MS Computer Science @ Northeastern University** • GPA: 3.83/4.0 • Graduating Dec 2027
 
-AI/ML Engineer specializing in production systems, NLP, and computer vision. Published researcher with hands-on experience deploying models at scale.
+AI/ML Engineer specializing in production systems, NLP, and computer vision. Published research with hands-on experience deploying models at scale.
 
 <div align="center">
 
